@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #B2F2D5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card {
+    background-color: #FFD1A4; 
+    padding: 30px;
+    border-radius: 20px;
+    color: #333;
+    text-align: left;
+  }
+  
+  .card h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #d35400;
+  }
+  
+  
+  .card li {
+    margin-bottom: 10px;
+  }
+  
